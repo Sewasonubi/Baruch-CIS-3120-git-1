@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
 
 ## Student contributors: 
-<!-- Students: Add your entries below this line! -->
+<!-- Students: Add your entries below this line! S
+**Sewa Sonubi** (Github: Sewasonubi) | The Odyssey!
 
 
